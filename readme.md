@@ -1,0 +1,1 @@
+la idea es hacer una página con un botón de manera que al hacer click en dicho botón, aparezca un saludo para el que visita la página.
