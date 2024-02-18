@@ -1,3 +1,3 @@
 function saludarrr () {
-var saludos = getElementaryById("saludo1");
-saludos.display = "block";}
+var saludos = document.getElementById("e2");
+saludos.innerHTML = "HELLO WORLD";}

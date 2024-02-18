@@ -11,11 +11,11 @@
         <h1>UN SALUDO</h1>
     </header>
     <section>
-        <div id="saludo1"><h2>HELLO WORLD</h2></div>
-        <div id="botom"><a href="" Onclick="saludarrr()">saludar</a></div>
+        <div><h2 id="e2"></h2></div>
+        <div id="botom"><a onclick="saludarrr()" href="#" >saludar</a></div>
     </section>
     <aside></aside>
     <footer></footer>
+    <script type="text/javascript" src="saludo.js"></script>
 </body>
-<script src="saludo.js"></script>
 </html>
